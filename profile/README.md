@@ -68,7 +68,7 @@ not as a reward, just as an accurate description of what has already happened.
 
 Two doors, both unlocked:
 
-- **[Discussions](https://github.com/orgs/nerd-factory/discussions)** — ask the question
+- **[Discussions](https://github.com/nerd-factory/nerd-lab/discussions)** — ask the question
   you think is too basic. It is not. This is the best place to start if you have never
   used GitHub before.
 - **[Issues](https://github.com/nerd-factory)** — pick something up, or report that
