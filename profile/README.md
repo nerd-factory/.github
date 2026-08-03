@@ -51,7 +51,7 @@ Especially those — the failure is usually the interesting half.
 
 | Experiment | What it does | Status |
 |---|---|---|
-| **[UNAIVERSE](https://mafiatun.github.io/unaiverse)** | An interactive galaxy-style explorer of the UN's journey with AI. Every link in it is official. The orbital mechanics are editorial. | live |
+| **[UNAIVERSE](https://mafiatun.github.io/unaiverse)** · [source](https://github.com/nerd-factory/unaiverse) | An interactive galaxy-style explorer of the UN's journey with AI. Every link in it is official. The orbital mechanics are editorial. | live |
 | `experiment-002` | Sealed until it stops disagreeing with itself. | in the lab |
 | `experiment-003` | Currently a diagram on a napkin. The napkin is winning. | in the lab |
 
