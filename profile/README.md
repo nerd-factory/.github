@@ -51,9 +51,9 @@ Especially those — the failure is usually the interesting half.
 
 | Experiment | What it does | Status |
 |---|---|---|
+| **[UN Data Commons Field Guide](https://mafiatun.github.io/un-data-commons-field-guide/)** · [source](https://github.com/MafiAtUN/un-data-commons-field-guide) | A practical field guide and live query lab for the UN System Data Commons. It teaches you to ask well, because the search box will not tell you when you asked badly. | live |
+| **[AI at UNGA81](https://mafiatun.github.io/unga81-ai-events/)** · [source](https://github.com/MafiAtUN/unga81-ai-events) | The week AI took the floor: 133 UN-linked events on AI around the 81st General Assembly, plus every General Debate statement that mentioned it. | live |
 | **[UNAIVERSE](https://mafiatun.github.io/unaiverse)** · [source](https://github.com/nerd-factory/unaiverse) | An interactive galaxy-style explorer of the UN's journey with AI. Every link in it is official. The orbital mechanics are editorial. | live |
-| `experiment-002` | Sealed until it stops disagreeing with itself. | in the lab |
-| `experiment-003` | Currently a diagram on a napkin. The napkin is winning. | in the lab |
 
 ---
 
