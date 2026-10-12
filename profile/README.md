@@ -55,7 +55,7 @@ Especially those — the failure is usually the interesting half.
 | **[AI at UNGA81](https://mafiatun.github.io/unga81-ai-events/)** · [source](https://github.com/MafiAtUN/unga81-ai-events) | The week AI took the floor: 133 UN-linked events on AI around the 81st General Assembly, plus every General Debate statement that mentioned it. | live |
 | **[Country Classification Commons](https://mafiatun.github.io/country-classification-commons/)** · [source](https://github.com/MafiAtUN/country-classification-commons) | How many countries are in Africa? 54, 60 or 48, depending on which official list you ask. Every UN, World Bank and OECD grouping in one auto-refreshing table, with a column that settles the argument. | live |
 | **[UNAIVERSE](https://mafiatun.github.io/unaiverse)** · [source](https://github.com/nerd-factory/unaiverse) | An interactive galaxy-style explorer of the UN's journey with AI. Every link in it is official. The orbital mechanics are editorial. | live |
-| **[undata](https://github.com/nerd-factory/undata)** · [plan](https://github.com/nerd-factory/undata/blob/main/PLAN.md) | A Python client for the UN System Data Commons that refuses to guess. Ask for Bengal and you get Bengal or an error, never the United States. | in the lab |
+| **[undata](https://nerd-factory.github.io/undata/)** · [source](https://github.com/nerd-factory/undata) | A Python client for the UN System Data Commons that refuses to guess. Ask for Bengal and you get Bengal or an error, never the United States. | in the lab |
 
 ---
 
